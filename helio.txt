@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 O Diogo é weeb
+=======
+O Diogo é uma rola
+>>>>>>> 189febb (alterei o helio.txt)
