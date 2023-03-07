@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 O Diogo é weeb
 =======
 O Diogo é uma rola
 >>>>>>> 189febb (alterei o helio.txt)
+=======
+Hélio é uma menina
+>>>>>>> 69c4957 (ALteração verdadeira)
